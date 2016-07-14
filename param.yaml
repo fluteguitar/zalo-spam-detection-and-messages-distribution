@@ -1,0 +1,7 @@
+# This file contains parameters for the projects.
+param:
+  - !!python/tuple [1, 1] # (degree, param) for percentage_seen_mess(OA, user)
+  - !!python/tuple [1, 1] # (degree, param) percentage_clicked_mess(OA, user) 
+  - !!python/tuple [1, 1] # (degree, param) for no_seen_mess(OA, user)
+  - !!python/tuple [1, 1] # (degree, param) for no_clicked_mess(OA, user)
+  - !!python/tuple [1, 1]
